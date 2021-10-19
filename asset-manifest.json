@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/octwebdeployment/static/css/main.a617e044.chunk.css",
+    "main.js": "/octwebdeployment/static/js/main.8f0dfa74.chunk.js",
+    "main.js.map": "/octwebdeployment/static/js/main.8f0dfa74.chunk.js.map",
+    "runtime-main.js": "/octwebdeployment/static/js/runtime-main.ca7a5423.js",
+    "runtime-main.js.map": "/octwebdeployment/static/js/runtime-main.ca7a5423.js.map",
+    "static/js/2.ed5b6654.chunk.js": "/octwebdeployment/static/js/2.ed5b6654.chunk.js",
+    "static/js/2.ed5b6654.chunk.js.map": "/octwebdeployment/static/js/2.ed5b6654.chunk.js.map",
+    "static/js/3.071c97d6.chunk.js": "/octwebdeployment/static/js/3.071c97d6.chunk.js",
+    "static/js/3.071c97d6.chunk.js.map": "/octwebdeployment/static/js/3.071c97d6.chunk.js.map",
+    "index.html": "/octwebdeployment/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/octwebdeployment/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ed5b6654.chunk.js.LICENSE.txt": "/octwebdeployment/static/js/2.ed5b6654.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/octwebdeployment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca7a5423.js",
+    "static/js/2.ed5b6654.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8f0dfa74.chunk.js"
+  ]
+}
